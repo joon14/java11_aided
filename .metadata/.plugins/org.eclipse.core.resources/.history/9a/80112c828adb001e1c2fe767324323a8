@@ -1,0 +1,12 @@
+package sec1;
+
+public class ExceptionExam3 {
+	public static void main(String[] args) {
+		int nArr[] = {90, 80, 100};
+		int i=0;
+		while(i<=3) {
+			System.out.println(nArr[i]);
+			i++;
+		}
+	}
+}
