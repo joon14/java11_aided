@@ -19,7 +19,6 @@
     <fullyQualifiedTypeName name="sec3.PwFormatException"/>
     <fullyQualifiedTypeName name="sec3.Member"/>
     <fullyQualifiedTypeName name="javax.imageio.IIOException"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="sec1.FileOutputStreamExam"/>
     <fullyQualifiedTypeName name="sec1.BufferedInputStreamExam"/>
     <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
@@ -34,4 +33,13 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="sec1.CalendarExam"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="sec1.DecimalFormatExam"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.Generated"/>
 </qualifiedTypeNameHistroy>
