@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.OptionalDouble"/>
     <fullyQualifiedTypeName name="java.util.OptionalInt"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
@@ -23,8 +22,6 @@
     <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
     <fullyQualifiedTypeName name="sec1.FileReaderExam"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -51,13 +48,16 @@
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="creational.builder.StudentBuilder"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="creational.prototype.Employee"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="creational.singleton.Singleton"/>
     <fullyQualifiedTypeName name="structural.adapter.Socket"/>
     <fullyQualifiedTypeName name="structural.adapter.SocketAdapter"/>
     <fullyQualifiedTypeName name="structural.adapter.SocketObjectAdapterImpl"/>
     <fullyQualifiedTypeName name="structural.bridge.Color"/>
     <fullyQualifiedTypeName name="structural.bridge.GreenColor"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="test.IPInfo"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
