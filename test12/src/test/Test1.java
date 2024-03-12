@@ -8,7 +8,7 @@ public class Test1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		//오류1. List = 인터페이스 이므로 생성할 수 없다.
-		//		ipInfoList는 ArrayList로 생성해야 하지만. null로 대입하였으므로 ipInfoList.add의 13~15 문장은 NullPointerException 오류 발생
+		//		ipInfoList는 ArrayList로 생성해야 하지만, null로 대입하였으므로 ipInfoList.add의 13~15 문장은 NullPointerException 오류 발생
 		//List<IPInfo> ipInfoList = null;
 		List<IPInfo> ipInfoList = new ArrayList<IPInfo>();
 		
