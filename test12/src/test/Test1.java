@@ -25,6 +25,7 @@ public class Test1 {
 		for(int i=0;i<ipInfoList.size();i++) {
 			//오류3. if조건식
 			//		: ipInfoList.get(i)는 특정 번째의 IPInfo 클래스의 객체이고, ip는 String 변수이므로 
+			//contains : 객체 비교 / equals : 문자열 비교
 			//if(ipInfoList.get(i) == ip)
 			if(ipInfoList.get(i).getIp().equals(ip)) {
 				System.out.println(ipInfoList.get(i));
