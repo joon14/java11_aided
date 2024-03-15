@@ -28,7 +28,7 @@ public class TestAnswer2 {
 			//if(name == "exit")
 			if(name.equals("exit")) {
 				System.out.println("<<입력 종료>>");
-				//오류3 : exit가 입력될 경우 아래 반복 출력문장을 실행하지 못하고, main 함수(메소드)의 밖으로 탈출해버린다.
+				//오류3 : exit가 입력될 경우 아래 반복 출력문장(for문)을 실행하지 못하고, main 함수(메소드)의 밖으로 탈출해버린다.
 				//return;
 				break;
 			}

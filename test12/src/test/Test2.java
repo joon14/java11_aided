@@ -28,6 +28,7 @@ public class Test2 {
 					System.out.println(n);
 				}
 				return;
+				//break;
 			}
 			else {
 				if(nameList.contains(name)) {
